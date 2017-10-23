@@ -18,4 +18,4 @@
 
 ### run a script
 
-> docker run --rm -v "$PWD":/data:z -w /data felixlohmeierpandas python my-script.py
+> docker run --rm -v "$PWD":/data:z -w /data felixlohmeier/pandas python my-script.py
