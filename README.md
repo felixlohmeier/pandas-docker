@@ -7,6 +7,7 @@
 
 ## Available Tags
 
+* 3.0.0: Pandas 3.0.0, Python 3.12.1
 * 1.3.3: Pandas 1.3.3, Python 3.9.7
 * 0.20.3: Pandas 0.20.3, Python 3.6.3
 
